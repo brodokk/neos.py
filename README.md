@@ -2,6 +2,7 @@
 
 > [!WARNING]  
 > Depreciation notice for NeosVR, this project will be forked and modified to support only Resonite.
+> See https://github.com/brodokk/resonitepy
 
 Unofficial NeosVR API python library.
 
